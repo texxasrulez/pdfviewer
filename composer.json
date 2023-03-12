@@ -1,10 +1,10 @@
 {
-    "name": "texxasrulez/pdfviewer",
+    "name": "kolab/pdfviewer",
     "type": "roundcube-plugin",
     "description": "Inline PDF viewer plugin",
-    "homepage": "https://github.com/texxasrulez/pdfviewer",
+    "homepage": "https://git.kolab.org/diffusion/RPK/",
     "license": "AGPLv3",
-    "version": "0.1.0",
+    "version": "3.4.0",
     "authors": [
         {
             "name": "Thomas Bruederli",
