@@ -1,8 +1,8 @@
 {
-    "name": "kolab/pdfviewer",
+    "name": "texxasrulez/pdfviewer",
     "type": "roundcube-plugin",
     "description": "Inline PDF viewer plugin",
-    "homepage": "https://git.kolab.org/diffusion/RPK/",
+    "homepage": "https://github.com/texxasrulez/pdfviewer",
     "license": "AGPLv3",
     "version": "3.4.0",
     "authors": [
