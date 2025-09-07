@@ -10,11 +10,7 @@
     "license": "AGPLv3",
     "version": "3.4.0",
     "authors": [
-        {
-            "name": "Thomas Bruederli",
-            "email": "bruederli@kolabsys.com",
-            "role": "Lead",
-            
+        {            
             "name": "Gene Hawkins",
             "email": "texxarules@yahoo.com",
             "role": "Developer"
