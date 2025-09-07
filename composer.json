@@ -1,7 +1,7 @@
 {
     "name": "texxasrulez/pdfviewer",
     "type": "roundcube-plugin",
-    "description": "Inline PDF viewer plugin",
+    "description": "PDF Viewer plugin",
     "homepage": "https://github.com/texxasrulez/pdfviewer",
       "support": {
     "issues": "https://github.com/texxasrulez/pdfviewer/issues",
@@ -13,7 +13,11 @@
         {
             "name": "Thomas Bruederli",
             "email": "bruederli@kolabsys.com",
-            "role": "Lead"
+            "role": "Lead",
+            
+            "name": "Gene Hawkins",
+            "email": "texxarules@yahoo.com",
+            "role": "Developer"
         }
     ],
     "repositories": [
